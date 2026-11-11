@@ -1,0 +1,9 @@
+{
+  "title": "Long-Distance Universality for the Berger Sphere and the Unicycle",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "Proofs of two claims of Brown, Freedman, Lin and Susskind on one-qubit complexity geometry: the Berger-sphere distance changes by at most pi/(2 sqrt I) as the penalty factor I tends to infinity, and the unicycle parking cost is z + 2 sqrt(1 - 1/I) + O(1/z).",
+  "creators": [{"name": "Bhattacharjee, Deep", "orcid": "0000-0003-0466-750X"}],
+  "keywords": ["complexity geometry", "Berger sphere", "sub-Riemannian geometry"],
+  "license": "MIT"
+}

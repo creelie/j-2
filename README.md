@@ -8,4 +8,6 @@ Proofs of two claims of Brown, Freedman, Lin and Susskind (Nature 622, 2023) on 
 - `preprints/` PDF and source zip
 - `code/figures.py` draws the figures (`python3 code/figures.py paper`)
 
+DOI: [10.5281/zenodo.24126945](https://doi.org/10.5281/zenodo.24126945)
+
 License: see LICENSE.
